@@ -20,19 +20,19 @@
 /categories
   Link: </webpack-runtime-af9d01f5dd6ea765896e.js>; rel=preload; as=script
   Link: </styles.f06acb018d50dcec532d.css>; rel=preload; as=script
-/pages/contacts/
-  Link: </webpack-runtime-af9d01f5dd6ea765896e.js>; rel=preload; as=script
-  Link: </styles.f06acb018d50dcec532d.css>; rel=preload; as=script
-/posts/perfecting-the-art-of-perfection/
-  Link: </webpack-runtime-af9d01f5dd6ea765896e.js>; rel=preload; as=script
-  Link: </styles.f06acb018d50dcec532d.css>; rel=preload; as=script
 /pages/about/
+  Link: </webpack-runtime-af9d01f5dd6ea765896e.js>; rel=preload; as=script
+  Link: </styles.f06acb018d50dcec532d.css>; rel=preload; as=script
+/pages/contacts/
   Link: </webpack-runtime-af9d01f5dd6ea765896e.js>; rel=preload; as=script
   Link: </styles.f06acb018d50dcec532d.css>; rel=preload; as=script
 /posts/the-origins-of-social-stationery-lettering
   Link: </webpack-runtime-af9d01f5dd6ea765896e.js>; rel=preload; as=script
   Link: </styles.f06acb018d50dcec532d.css>; rel=preload; as=script
 /posts/a-brief-history-of-typography/
+  Link: </webpack-runtime-af9d01f5dd6ea765896e.js>; rel=preload; as=script
+  Link: </styles.f06acb018d50dcec532d.css>; rel=preload; as=script
+/posts/perfecting-the-art-of-perfection/
   Link: </webpack-runtime-af9d01f5dd6ea765896e.js>; rel=preload; as=script
   Link: </styles.f06acb018d50dcec532d.css>; rel=preload; as=script
 /posts/the-birth-of-movable-type/
