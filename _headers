@@ -9,92 +9,92 @@
 /sw.js
   Cache-Control: no-cache
 /vanillaSpread_deploy/offline-plugin-app-shell-fallback/
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/component---node-modules-gatsby-plugin-offline-app-shell-js-67b3578e2c955c088b60.js>; rel=preload; as=script
 /vanillaSpread_deploy/404
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tags
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/categories
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
-  Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
-/vanillaSpread_deploy/pages/about/
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/pages/contacts/
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/posts/the-origins-of-social-stationery-lettering
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/posts/perfecting-the-art-of-perfection/
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/posts/a-brief-history-of-typography/
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/posts/the-birth-of-movable-type/
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/posts/humane-typography-in-the-digital-age/
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
+/vanillaSpread_deploy/pages/about/
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/design
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/gatsby
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/handwriting
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/helvetica
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/history
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/history-of-typography
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/learning-to-write
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/lettering
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/linotype
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/monotype
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/open-source
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/typefaces
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/typography
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/tag/web-development
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/category/design-culture
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/category/design-inspiration
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/category/typography
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
 /vanillaSpread_deploy/page/1
-  Link: </vanillaSpread_deploy/webpack-runtime-18a3454076391b6e595c.js>; rel=preload; as=script
+  Link: </vanillaSpread_deploy/webpack-runtime-438d8130efc97a9c994c.js>; rel=preload; as=script
   Link: </vanillaSpread_deploy/styles.435e4eb3697263759573.css>; rel=preload; as=script
